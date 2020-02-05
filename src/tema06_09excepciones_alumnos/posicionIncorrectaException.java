@@ -6,7 +6,7 @@
 package tema06_09excepciones_alumnos;
 
 /**
- *
+ * contempla que el rango sea correcto, entre 0 y 4
  * @author Juanfran
  */
 public class posicionIncorrectaException extends Exception {

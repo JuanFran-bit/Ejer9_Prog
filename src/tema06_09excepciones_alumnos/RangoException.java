@@ -6,8 +6,8 @@
 package tema06_09excepciones_alumnos;
 
 /**
- *
- * @author ITP1DAM
+ * Revisa que la nota sea correcta, entre 0 y 10
+ * @author Juanfran
  */
 public class RangoException extends Exception{
     public RangoException(String mensaje){

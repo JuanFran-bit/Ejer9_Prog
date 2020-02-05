@@ -87,5 +87,12 @@ public class Alumnos {
                 }
             }
     }
+    /**
+     * Este metodo muestra el nombre del alumno y sus notas
+     */
+    public void imprimirClificaciones(){
+        getNombre();
+        System.out.println(notas);
+    }
     
 }
